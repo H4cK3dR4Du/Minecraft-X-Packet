@@ -28,6 +28,7 @@
 - **Download IDA 8.3 [here](https://hex-rays.com/ida-free/)**
 - **Download Your Minecraft Bedrock Version Database [here](https://www.mediafire.com/folder/ammda8wfvbw9x/The_Flopper_Databases)**
 - **Download Cheat Engine [here]([https://git-scm.com/download/win](https://www.cheatengine.org/downloads.php)**
+- **Download SigMakerEX For IDA 8.3 [here](https://discord.com/channels/1209148292504625152/1247556400838869004)**
 
 ### - Steps To Get Your First Packet vTable & Signature:
 
@@ -82,4 +83,22 @@
 *15. Click on 'Continue' and you're done! Now in the console, you have the signature of your Packet. It's automatically copied to your clipboard as well.*
 
 ![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/d799df7d-7087-4e8f-bd13-3bb619f6cebc)
+
+<h2 align="center"> 🪄 Check Packet Signature 🪄 </h2>
+
+### - Steps To Check Your Packet Signature:
+
+*1. Open Cheat Engine and Minecraft Bedrock.*
+
+*2. Select the Minecraft.Windows.exe process and click on 'Open'.*
+
+![image](https://github.com/H4cK3dR4Du/Minecraft-X-Packet/assets/118562174/332cf16f-1bb7-4180-b9f9-d6d5a8a49a9d)
+
+*3. Then, you need to configure some settings to verify if a Packet's signature is valid or not. Here's how they should look:*
+
+![image](https://github.com/H4cK3dR4Du/Minecraft-X-Packet/assets/118562174/cc7ff84b-2a35-42e7-bff7-ccf62c510c40)
+
+*4. Finally, paste the signature of your packet in the search engine and press 'First Scan', if the signature is valid you should see some value found with its address (Minecraft), in case you could not delete it 2 at a time signature from end to beginning until you get 1 as valid.*
+
+![image](https://github.com/H4cK3dR4Du/Minecraft-X-Packet/assets/118562174/60ac61af-c993-4584-959b-c46a2031ce76)
 
