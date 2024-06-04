@@ -92,13 +92,12 @@
 
 *2. Select the Minecraft.Windows.exe process and click on 'Open'.*
 
-![image](https://github.com/H4cK3dR4Du/Minecraft-X-Packet/assets/118562174/332cf16f-1bb7-4180-b9f9-d6d5a8a49a9d)
+![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/1aa61592-b364-4973-8bfe-5278e14762cb)
 
 *3. Then, you need to configure some settings to verify if a Packet's signature is valid or not. Here's how they should look:*
 
-![image](https://github.com/H4cK3dR4Du/Minecraft-X-Packet/assets/118562174/cc7ff84b-2a35-42e7-bff7-ccf62c510c40)
+![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/46e467f9-3f92-4c35-b62b-0d6159a6d246)
 
 *4. Finally, paste the signature of your packet in the search engine and press 'First Scan', if the signature is valid you should see some value found with its address (Minecraft), in case you could not delete it 2 at a time signature from end to beginning until you get 1 as valid.*
 
-![image](https://github.com/H4cK3dR4Du/Minecraft-X-Packet/assets/118562174/60ac61af-c993-4584-959b-c46a2031ce76)
-
+![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/68516bfb-8639-428d-b584-bac05e04e491)
