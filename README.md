@@ -37,7 +37,7 @@
 
 *3. After opening the database in IDA, you should see the database unpacked.*
 
-*4. You can now view the Minecraft database. Let's start searching for the package you want to obtain the vTable and Signature for.*
+*4. You can now view the Minecraft database. Let's start searching for the Packet you want to obtain the vTable and Signature for.*
 
 *5. The first thing we'll do is search for the name of the package you want to obtain. In my case, we'll use MovePlayerPacket. To do that, first click on View > Open Subviews > Strings.*
 
@@ -47,11 +47,11 @@
 
 ![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/8b6f0376-c0ec-4de7-bb89-cd294ffc4353)
 
-*7. Now what we'll do is press CTRL+F and search for the package name, in this case, MovePlayerPacket*
+*7. Now what we'll do is press CTRL+F and search for the Packet name, in this case, MovePlayerPacket*
 
 ![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/298bfc44-1125-4175-b945-d92cd95486ef)
 
-*8. After that, you will see a couple of strings containing the name of your package. We need to double-click on the one that solely contains the name of the package without any additional information.*
+*8. After that, you will see a couple of strings containing the name of your Packet. We need to double-click on the one that solely contains the name of the Packet without any additional information.*
 
 ![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/6444712d-6a47-4889-a077-935e1f9499d1)
 
