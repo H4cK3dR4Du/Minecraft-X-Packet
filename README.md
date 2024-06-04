@@ -27,7 +27,7 @@
 
 - **Download IDA 8.3 [here](https://hex-rays.com/ida-free/)**
 - **Download Your Minecraft Bedrock Version Database [here](https://www.mediafire.com/folder/ammda8wfvbw9x/The_Flopper_Databases)**
-- **Download Cheat Engine [here]([https://git-scm.com/download/win](https://www.cheatengine.org/downloads.php)**
+- **Download Cheat Engine [here](https://www.cheatengine.org/downloads.php)**
 - **Download SigMakerEX For IDA 8.3 [here](https://discord.com/channels/1209148292504625152/1247556400838869004)**
 
 ### - Steps To Get Your First Packet vTable & Signature:
