@@ -43,3 +43,15 @@
 
 ![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/ee123350-a9c9-46ae-9a89-bec5af033779)
 
+*6. After that, you should see a menu like this:*
+
+![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/8b6f0376-c0ec-4de7-bb89-cd294ffc4353)
+
+*7. Now what we'll do is press CTRL+F and search for the package name, in this case, MovePlayerPacket*
+
+![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/298bfc44-1125-4175-b945-d92cd95486ef)
+
+*8. After that, you will see a couple of strings containing the name of your package. We need to double-click on the one that solely contains the name of the package without any additional information.*
+
+![image](https://github.com/H4cK3dR4Du/Dickeys-Account-Checker/assets/118562174/6444712d-6a47-4889-a077-935e1f9499d1)
+
